@@ -1,0 +1,56 @@
+body{
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+}
+.box{
+    width: 250px;
+    height: 350px;
+    font-family: "Big Shoulders Display", sans-serif;
+    padding: 55px;
+    border-radius: 5px;
+    color: white;
+    position: relative;
+}
+.title{
+    font-weight: bold;
+    font-size: 40px;
+}
+.generalButton{
+    border-radius: 20px;
+    border: none;
+    padding:10px 20px;
+    font-size: 14px;
+    font-family: "Lexend Deca", sans-serif;
+}
+.circle{
+    width: 40px;
+    height: 40px;
+    background-color: rgba(0, 0, 0, 0.237);
+    border-radius: 100%;
+    position: absolute;
+    left: 35px;
+    top: 45px;
+}
+.description{
+    font-family: "Lexend Deca", sans-serif;
+    margin-bottom: 30px;
+}
+.buttonSedans{
+    color: #E28625;
+}
+.buttonSuvs{
+    color: #006971;
+}
+.buttonLuxury{
+    color: #004140;
+}
+.sedans{
+    background-color: #E28625;
+}
+.suvs{
+    background-color:#006971 ;
+}
+.luxury{
+    background-color: #004140;
+}

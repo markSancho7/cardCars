@@ -12,6 +12,12 @@ body{
     color: white;
     position: relative;
 }
+@media screen and (min-width: 1050px) {
+    main{
+        display: flex;
+        flex-direction: row;
+    }
+}
 .title{
     font-weight: bold;
     font-size: 40px;

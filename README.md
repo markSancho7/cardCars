@@ -1,6 +1,6 @@
 # Título del proyecto
 
-!https://raw.githubusercontent.com/markSancho7/cardCars/main/design/desktop-preview.jpg
+https://raw.githubusercontent.com/markSancho7/cardCars/main/design/desktop-preview.jpg
 
 ## Ejemplo en vivo
 

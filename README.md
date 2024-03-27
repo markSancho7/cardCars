@@ -1,6 +1,7 @@
 # Título del proyecto
 
-https://raw.githubusercontent.com/markSancho7/cardCars/main/design/desktop-preview.jpg
+![Imagen del proyecto]([https://github.com/eduardofierropro/Portafolio-y-CV/blob/main/IMAGEN-DEL-PROYECTO.jpg?raw=true](https://raw.githubusercontent.com/markSancho7/cardCars/main/design/desktop-preview.jpg))
+
 
 ## Ejemplo en vivo
 
